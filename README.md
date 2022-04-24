@@ -21,7 +21,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo"
         title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Jquery-0769AD?logo=jquery&logoColor=black" alt="Jquery logo"
+<span><img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=512BD4" alt="Jquery logo"
         title="Jquery" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5"
