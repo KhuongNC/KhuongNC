@@ -1,0 +1,35 @@
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">foreibnObject   
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+            </style>
+
+            <div class="container">
+                <div class="earth"></div>
+
+                <div class="greeting">
+                    Hi bro!<br/> 
+                    I'm Khuong from ...
+                </div>
+
+                <div class="skills">
+                    <div class="skills_icon">
+                        <img src="" alt=""/>
+                    </div>
+
+                    <div class="skills_icon"><img src="" alt=""/></div>
+                    
+                    <div class="skills_icon"><img src="" alt=""/></div>
+                    
+                    <div class="skills_icon"><img src="" alt=""/></div>
+                    
+                    <div class="skills_icon"><img src="" alt=""/></div>
+                    
+                    <div class="skills_icon"><img src="" alt=""/></div>
+                </div>
+
+            </div>
+        </div>
+    </foreignObject>
+</svg>
