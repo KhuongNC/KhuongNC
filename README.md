@@ -48,7 +48,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <br>
 <div align="center">
     <a href="#" title="KhuongNC">
-        <img  width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc&langs_count=4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" >
+        <img  width="434" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc&langs_count=4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" >
     </a>
     <a href="#" title="KhuongNC">
         <img  align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=khuongnc&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true">
@@ -85,7 +85,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <br>
 
 <!-- Link for creating quote: https://github.com/shravan20/github-readme-quotes -->
-<div align="right" >
+<div align="center" >
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&animation=grow_out_in&layout=default&font=default)
 
