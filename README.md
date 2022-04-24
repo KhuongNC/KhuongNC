@@ -12,37 +12,30 @@ There is no LABEL, MESSAGE is JavaScript, COLOR (background color) is 282C34.
 Param 1 is logo=javascript which is got from https://simpleicons.org/
 Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=512BD4" alt=".NET logo"
-        title=".NET" height="25" /></span>
-&nbsp;
-
-<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo"
-        title="Microsoft SQL Server" height="25" /></span>
-&nbsp;
-
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo"
         title="JavaScript" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=512BD4" alt=".NET logo"
+        title=".NET" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo"
+        title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Jquery-0769AD?logo=jquery&logoColor=black" alt="Jquery logo"
         title="Jquery" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5"
         height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3"
         height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo"
         title="Bootstrap" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git"
         height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=#FCA121" alt="GitLab logo" title="GitLab"
         height="25" /></span>
 &nbsp;
@@ -56,7 +49,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <div align="center">
     <a href="#" title="KhuongNC">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc&langs_count=4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-            width="315">
+            width="434">
     </a>
     <a href="#" title="KhuongNC">
         <img src="https://github-readme-stats.vercel.app/api?username=khuongnc&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true"
@@ -94,7 +87,6 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <br>
 
 <!-- Link for creating quote: https://github.com/shravan20/github-readme-quotes -->
-<a href="#" target="_blank">
-    <!-- <img src="svg/KhuongNC-quotes.svg" width="846" height="150" alt="KhuongNC-official" /> -->
-    <img width="846px" src="https://github-readme-quotes.herokuapp.com/quote?theme=blueberry&animation=default&layout=default&font=default" alt="KhuongNC-quote" />
-</a>
+<div href="#" target="_blank">
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&animation=grow_out_in&layout=default&font=default" alt="KhuongNC-quote" />
+</div>
