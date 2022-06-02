@@ -81,11 +81,18 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 
 <br>
 
+<!-- Use this link to create snake: https://github.com/Platane/snk -->
+<h2 align="center">🐍 Just a snake eats my contributions</h2>
+<p align="center">
+    <img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
+</p>
+<br>
+
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 
 <!-- Link for creating quote: https://github.com/shravan20/github-readme-quotes -->
-<div align="right" >
+<div align="center" >
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&animation=grow_out_in&layout=default&font=default)
 
