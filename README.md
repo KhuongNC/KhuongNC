@@ -30,6 +30,9 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3"
         height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass logo" title="Sass"
+        height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo"
         title="Bootstrap" height="25" /></span>
 &nbsp;
